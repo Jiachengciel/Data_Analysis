@@ -16,7 +16,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 #### Learning of Numpy Basics 
 Numpy基础学习
-```
-代码部分见：[NumpyBasic](./Task1_Numpy/NumpyBasic.ipynb)
-```
+
+代码部分见： [NumpyBasic](./Task1_Numpy/NumpyBasic.ipynb)
+
 ###### 注：`array_archive.npz`, `arrays_compressed.npz`, `some_array.npy` 为Numpy存储的矩阵数据包
