@@ -15,13 +15,15 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 ## Task1_Numpy
 
 ### Learning of Numpy Basics 
-##### Numpy基础学习
+#### Numpy基础学习
 
 代码部分见： [NumpyBasic](./Task1_Numpy/NumpyBasic.ipynb)
 
 ###### 注：`array_archive.npz`, `arrays_compressed.npz`, `some_array.npy` 为Numpy存储的矩阵数据包
 
-##### Numpy训练题100道
+#### Numpy训练题100道
 |来源|地址|
 |----|-----|
 |`科赛（www.kesci.com)`|[Numpy训练100道题](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc "悬停显示")|
+
+个人代码部分见：[NumpyExercise](./Task1_Numpy/这100道练习，带你玩转Numpy.ipynb)
