@@ -36,4 +36,4 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ### Pandas入门
 
-代码部分见：[PandasBasic](./Task1_Numpy/PandasBasic.ipynb)
+代码部分见：[PandasBasic](./Task2_Pandas/PandasBasic.ipynb)
