@@ -14,8 +14,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ## Task1_Numpy
 
-### Learning of Numpy Basics 
-### Numpy基础学习
+### Chapter 4: NumPy Basics: Arrays and Vectorized Computation (Numpy基础:数组和向量化计算)
 
 代码部分见： [Numpy Basic](./Task1_Numpy/NumpyBasic.ipynb)
 
@@ -34,9 +33,11 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ## Task2_Pandas
 
-### Chapter5: Getting Started with pandas (Pandas入门)
+### Chapter 5: Getting Started with pandas (Pandas入门)
 
 代码部分见：[Pandas Basic](./Task2_Pandas/PandasBasic.ipynb)
 
+
 ### Chapter 6: Data Loading, Storage, and File Formats (数据加载、存储与文件格式)
+
 代码部分见：[Accessing Data](./Task2_Pandas/AccessingData.ipynb)
