@@ -17,7 +17,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 * ### Chapter 4: NumPy Basics: Arrays and Vectorized Computation (Numpy基础:数组和向量化计算)
 
-代码部分见： [Numpy Basic](./Task1_Numpy/NumpyBasic.ipynb)
+代码部分见： [Numpy Basic](./Task1_Numpy/4.%20NumPy%20Basics-%20Arrays%20and%20Vectorized%20Computation.ipynb)
 
 ###### 注：`array_archive.npz`, `arrays_compressed.npz`, `some_array.npy` 为Numpy存储的矩阵数据包
 
@@ -36,12 +36,12 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 * ### Chapter 5: Getting Started with pandas (Pandas入门)
 
-代码部分见：[Pandas Basic](./Task2_Pandas/PandasBasic.ipynb)
+代码部分见：[Pandas Basic](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
 
 
 * ### Chapter 6: Data Loading, Storage, and File Formats (数据加载、存储与文件格式)
 
-代码部分见：[Accessing Data](./Task2_Pandas/AccessingData.ipynb)
+代码部分见：[Accessing Data](./Task2_Pandas/6.%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats.ipynb)
 
 ---
 
@@ -49,10 +49,10 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 * ### Chapter 7: Data cleaning and Preparation (数据清洗与准备)
 
-代码部分见：[Data cleaning and Preparation](./Task3_Data/Data%20Cleaning%20and%20Preparation.ipynb)
+代码部分见：[Data cleaning and Preparation](./Task3_Data/7.%20Data%20Cleaning%20and%20Preparation.ipynb)
 
 
 * ### Chapter 8: Data Wrangling: Join, Combine, and Reshape (数据规整：聚合、合并和重塑)
 
-代码部分见：[Data Wrangling: Join, Combine, and Reshape](./Task3_Data/Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
+代码部分见：[Data Wrangling: Join, Combine, and Reshape](./Task3_Data/8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
 
