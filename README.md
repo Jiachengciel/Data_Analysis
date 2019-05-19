@@ -56,3 +56,12 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 代码部分见：[Data Wrangling: Join, Combine, and Reshape](./Task3_Data/8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
 
+---
+
+## Task4_Data2
+
+* ### Chapter 10: Data Aggregation and Group Operations (数据聚合与分组计算)
+
+代码部分见：[Data Aggregation and Group Operations](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+
+
