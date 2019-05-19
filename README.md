@@ -49,3 +49,9 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 * ### Chapter 7: Data cleaning and Preparation (数据清洗与准备)
 
 代码部分见：[Data cleaning and Preparation](./Task3_Data/Data%20Cleaning%20and%20Preparation.ipynb)
+
+
+* ### Chapter 8: Data Wrangling: Join, Combine, and Reshape (数据规整：聚合、合并和重塑)
+
+代码部分见：[Data Wrangling: Join, Combine, and Reshape](./Task3_Data/Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
+
