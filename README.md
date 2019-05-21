@@ -24,6 +24,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 
 * ### Numpy训练题100道
+
 |来源|地址|
 |----|-----|
 |`科赛（www.kesci.com)`|[Numpy训练100道题](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc "悬停显示")|
@@ -64,4 +65,20 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 代码部分见：[Data Aggregation and Group Operations](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
 
+---
+
+## Task5_AdvancedPandas
+
+* ### Chapter 12: Data Aggregation and Group Operations (数据聚合与分组计算)
+
+代码部分见：[Advanced Pandas](./Task5_AdvancedPandas/12.%20Advanced%20Pandas.ipynb)
+
+
+* ### 十套练习，Pandas做数据分析
+
+|来源|地址|
+|----|-----|
+|`科赛（www.kesci.com)`|[Pandas十套练习](https://www.kesci.com/home/project/59e77a636d213335f38daec2 "悬停显示")|
+
+个人代码部分见：[Pandas Exercise](./Task5_AdvancedPanda/这十套练习，教你如何使用Pandas做数据分析.ipynb)
 
