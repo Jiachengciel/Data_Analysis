@@ -80,5 +80,3 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 |----|-----|
 |`科赛（www.kesci.com)`|[Pandas十套练习](https://www.kesci.com/home/project/59e77a636d213335f38daec2 "悬停显示")|
 
-个人代码部分见：[Pandas Exercise](./Task5_AdvancedPanda/这十套练习，教你如何使用Pandas做数据分析.ipynb)
-
