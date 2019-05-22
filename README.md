@@ -69,7 +69,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ## Task5_AdvancedPandas
 
-* ### Chapter 12: Data Aggregation and Group Operations (数据聚合与分组计算)
+* ### Chapter 12: Advanced Pandas (Pandas高级应用)
 
 代码部分见：[Advanced Pandas](./Task5_AdvancedPandas/12.%20Advanced%20Pandas.ipynb)
 
@@ -79,4 +79,15 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 |来源|地址|
 |----|-----|
 |`科赛（www.kesci.com)`|[Pandas十套练习](https://www.kesci.com/home/project/59e77a636d213335f38daec2 "悬停显示")|
+
+---
+
+
+## Task6_Matplotlib
+
+* ### Chapter 9: Plotting and Visualization (绘图和可视化)
+
+代码部分见：[Plotting and Visualization](./Task6_Matplotlib/9.%20Plotting%20and%20Visualization.ipynb)
+
+
 
