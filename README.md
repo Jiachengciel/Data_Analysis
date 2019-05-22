@@ -8,7 +8,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 |Author|Jiacheng|
 |---|---
-|E-mail|xjsk1016tansuo@stu.xjtu.edu.cn (Updating...)
+|E-mail|xjsk1016tansuo@stu.xjtu.edu.cn
 | |Jiacheng.Liu@eleves.ec-nantes.fr
 
 ****
