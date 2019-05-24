@@ -72,5 +72,17 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 * ### [Chapter 9: Plotting and Visualization (绘图和可视化)](./Task6_Matplotlib/9.%20Plotting%20and%20Visualization.ipynb)
 
+* ### Matplolib进行iris可视化分析
+
+|来源|地址|
+|----|-----|
+|`科赛（www.kesci.com)`|[iris可视化分析](https://www.kesci.com/home/project/58a943707159a710d916af15 "悬停显示")|
+
+* ### Seaborn可视化学习
+|来源|地址|
+|----|-----|
+|`科赛（www.kesci.com)`|[categorial visualization](https://www.kesci.com/home/project/59c3851c2110010662398bfc "悬停显示")
+| |[time series & regression & heatmap](https://www.kesci.com/home/project/59c9e95d21100106623ecf58 "悬停显示")
+| |[distribution visualization](https://www.kesci.com/home/project/59c8b06421100106623db531 "悬停显示")
 
 
