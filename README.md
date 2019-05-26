@@ -85,4 +85,14 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 | |[time series & regression & heatmap](https://www.kesci.com/home/project/59c9e95d21100106623ecf58 "悬停显示")
 | |[distribution visualization](https://www.kesci.com/home/project/59c8b06421100106623db531 "悬停显示")
 
+---
+
+## Task7_TimeSeries
+
+* ### [Chapter 11: Time Series (时间序列)](./Task7_TimeSeries/11.%20Time%20Series.ipynb)
+
+---
+
+## Task8_Final
+
 
