@@ -95,4 +95,4 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ## Task8_Final
 
-
+* ### [The Data Analysis of CDNow](./Task8_Analysis/CDNow_Analysis.ipynb)
