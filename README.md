@@ -44,7 +44,7 @@
 ---
 
 ### 附上一道数据分析实战题：
-* ### [CDNow数据分析](./Task8_Analysis/CDNow_Analysis.ipynb)
+* ### [CDNow数据分析](./CDNow_Analysis/CDNow_Analysis.ipynb)
 
 ---
 
