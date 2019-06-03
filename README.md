@@ -15,31 +15,31 @@
 
 ****
 
-* ### [第四章 Numpy基础:数组和向量化计算](./Task1_Numpy/4.%20NumPy%20Basics-%20Arrays%20and%20Vectorized%20Computation.ipynb)
+* ### [第四章 Numpy基础:数组和向量化计算](./4.%20NumPy%20Basics-Arrays%20and%20Vectorized%20Computation.ipynb)
 
 
-* ### [第五章 Pandas入门](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
+* ### [第五章 Pandas入门](./5.%20Getting%20Started%20with%20Pandas.ipynb)
 
 
-* ### [第六章 数据加载、存储与文件格式](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
+* ### [第六章 数据加载、存储与文件格式](./6.%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats.ipynb)
 
 
-* ### [第七章 数据清洗与准备](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
+* ### [第七章 数据清洗与准备](./7.%20Data%20Cleaning%20and%20Preparation.ipynb)
 
 
-* ### [第八章 数据规整：聚合、合并和重塑](./Task3_Data/8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
+* ### [第八章 数据规整：聚合、合并和重塑](./8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
 
 
-* ### [第九章 绘图和可视化](./Task6_Matplotlib/9.%20Plotting%20and%20Visualization.ipynb)
+* ### [第九章 绘图和可视化](./9.%20Plotting%20and%20Visualization.ipynb)
 
 
-* ### [第十章 数据聚合与分组计算](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+* ### [第十章 数据聚合与分组计算](./10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
 
 
-* ### [第十一章 时间序列](./Task7_TimeSeries/11.%20Time%20Series.ipynb)
+* ### [第十一章 时间序列](./11.%20Time%20Series.ipynb)
 
 
-* ### [第十二章 Pandas高级应用](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+* ### [第十二章 Pandas高级应用](./12.%20Advanced%20Pandas.ipynb)
 
 ---
 
