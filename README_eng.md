@@ -2,85 +2,75 @@
 
 Learning of Data Analysis with the book "Python for Data Analysis"
 
+****
 
-* ### [Chapter 4: NumPy Basics: Arrays and Vectorized Computation (Numpy基础:数组和向量化计算)](./Task1_Numpy/4.%20NumPy%20Basics-%20Arrays%20and%20Vectorized%20Computation.ipynb)
+|Coder|6+x|
+|---|---
+|E-mail|xjsk1016tansuo@stu.xjtu.edu.cn
+| |Jiacheng.Liu@eleves.ec-nantes.fr
 
-###### 注：`array_archive.npz`, `arrays_compressed.npz`, `some_array.npy` 为Numpy存储的矩阵数据包
+****
+
+* ### [Chapter 4: NumPy Basics: Arrays and Vectorized Computation](./4.%20NumPy%20Basics-Arrays%20and%20Vectorized%20Computation.ipynb)
 
 
-* ### Numpy训练题100道
+* ### [Chapter 5: Getting Started with pandas](./5.%20Getting%20Started%20with%20Pandas.ipynb)
 
-|来源|地址|
+
+* ### [Chapter 6: Data Loading, Storage, and File Formats](./6.%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats.ipynb)
+
+
+* ### [Chapter 7: Data cleaning and Preparation](./7.%20Data%20Cleaning%20and%20Preparation.ipynb)
+
+
+* ### [Chapter 8: Data Wrangling: Join, Combine, and Reshape](./8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
+
+
+* ### [Chapter 9: Plotting and Visualization](./9.%20Plotting%20and%20Visualization.ipynb)
+
+
+* ### [Chapter 10: Data Aggregation and Group Operations](./10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+
+
+* ### [Chapter 11: Time Series](./11.%20Time%20Series.ipynb)
+
+
+* ### [Chapter 12: Advanced Pandas](./10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+
+---
+
+### Attach a project of Data Analysis
+
+* ### [The Data Analysis of CDNow](./CDNow_Analysis/CDNow_Analysis.ipynb)
+
+---
+
+* ### One hundred training exercise of Numpy
+
+|Source|Address|
 |----|-----|
-|`科赛（www.kesci.com)`|[Numpy训练100道题](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc "悬停显示")|
-
-个人代码部分见：[Numpy Exercise](./Task1_Numpy/这100道练习，带你玩转Numpy.ipynb)
-
----
-
-## Task2_Pandas
-
-* ### [Chapter 5: Getting Started with pandas (Pandas入门)](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
+|`www.kesci.com`|[One hundred training exercise of Numpy](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc "悬停显示")|
 
 
-* ### [Chapter 6: Data Loading, Storage, and File Formats (数据加载、存储与文件格式)](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
+* ### Ten sets of exercises, Data Analysis with Pandas 
 
----
-
-## Task3_Data
-
-* ### [Chapter 7: Data cleaning and Preparation (数据清洗与准备)](./Task2_Pandas/5.%20Getting%20Started%20with%20Pandas.ipynb)
-
-
-* ### [Chapter 8: Data Wrangling: Join, Combine, and Reshape (数据规整：聚合、合并和重塑)](./Task3_Data/8.%20Data%20Wrangling-Join%2C%20Combine%2C%20and%20Reshape.ipynb)
-
----
-
-## Task4_Data2
-
-* ### [Chapter 10: Data Aggregation and Group Operations (数据聚合与分组计算)](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
-
----
-
-## Task5_AdvancedPandas
-
-* ### [Chapter 12: Advanced Pandas (Pandas高级应用)](./Task4_Data2/10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
-
-
-* ### 十套练习，Pandas做数据分析
-
-|来源|地址|
+|Source|Address|
 |----|-----|
-|`科赛（www.kesci.com)`|[Pandas十套练习](https://www.kesci.com/home/project/59e77a636d213335f38daec2 "悬停显示")|
-
----
+|`www.kesci.com`|[Ten sets of exercises, Data Analysis with Pandas](https://www.kesci.com/home/project/59e77a636d213335f38daec2 "悬停显示")|
 
 
-## Task6_Matplotlib
+* ### Matplolib for visual analysis of iris
 
-* ### [Chapter 9: Plotting and Visualization (绘图和可视化)](./Task6_Matplotlib/9.%20Plotting%20and%20Visualization.ipynb)
-
-* ### Matplolib进行iris可视化分析
-
-|来源|地址|
+|Source|Adress|
 |----|-----|
-|`科赛（www.kesci.com)`|[iris可视化分析](https://www.kesci.com/home/project/58a943707159a710d916af15 "悬停显示")|
+|`www.kesci.com`|[Visual Analysis of iris](https://www.kesci.com/home/project/58a943707159a710d916af15 "悬停显示")|
 
-* ### Seaborn可视化学习
-|来源|地址|
+* ### Learning of Seaborn
+|Source|Adress|
 |----|-----|
-|`科赛（www.kesci.com)`|[categorial visualization](https://www.kesci.com/home/project/59c3851c2110010662398bfc "悬停显示")
+|`www.kesci.com`|[categorial visualization](https://www.kesci.com/home/project/59c3851c2110010662398bfc "悬停显示")
 | |[time series & regression & heatmap](https://www.kesci.com/home/project/59c9e95d21100106623ecf58 "悬停显示")
 | |[distribution visualization](https://www.kesci.com/home/project/59c8b06421100106623db531 "悬停显示")
 
----
 
-## Task7_TimeSeries
 
-* ### [Chapter 11: Time Series (时间序列)](./Task7_TimeSeries/11.%20Time%20Series.ipynb)
-
----
-
-## Task8_Final
-
-* ### [The Data Analysis of CDNow](./Task8_Analysis/CDNow_Analysis.ipynb)
