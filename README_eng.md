@@ -35,7 +35,7 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 * ### [Chapter 11: Time Series](./11.%20Time%20Series.ipynb)
 
 
-* ### [Chapter 12: Advanced Pandas](./10.%20Data%20Aggregation%20and%20Group%20Operations.ipynb)
+* ### [Chapter 12: Advanced Pandas](./12.%20Advanced%20Pandas.ipynb)
 
 ---
 
