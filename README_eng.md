@@ -45,6 +45,8 @@ Learning of Data Analysis with the book "Python for Data Analysis"
 
 ---
 
+### Attach some exercises 
+
 * ### One hundred training exercise of Numpy
 
 |Source|Address|
